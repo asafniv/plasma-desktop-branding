@@ -1,3 +1,9 @@
+[Common]
+OutlineCloseButton=false
+ShadowColor=27,27,27
+ShadowStrength=89
+
 [Windeco]
+DrawBackgroundGradient=false
 DrawSizeGrip=false
 DrawTitleBarSeparator=false

@@ -1,2 +1,5 @@
-[General]
-DelayedCheck=true
+[Module-appmenu]
+autoload=true
+
+[PlasmaBrowserIntegration]
+shownCount=1

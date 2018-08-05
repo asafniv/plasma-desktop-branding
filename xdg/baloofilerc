@@ -1,3 +1,7 @@
 [General]
 only basic indexing=true
 exclude folders[$e]=$HOME/Games/,$HOME/R/,$HOME/YPKG/,$HOME/snap/,/snap/
+dbVersion=2
+exclude filters=conftest,core-dumps,*~,*.lo,*.omf,*.a,.npm,*.la,.yarn-cache,*.db,moc_*.cpp,*.orig,cmake_install.cmake,*.po,lost+found,*.nvram,*.init,.git,node_modules,autom4te,CTestTestfile.cmake,*.gmo,*.ini,*.aux,*.rej,CVS,*.csproj,*.elc,*.pc,libtool,CMakeFiles,__pycache__,*.qrc,.hg,*.class,_darcs,confdefs.h,Makefile.am,*.map,CMakeTmpQmake,.yarn,*.pyo,*.loT,*.qmlc,ui_*.h,*.tmp,CMakeCache.txt,po,.svn,*.so,.moc,.bzr,litmain.sh,lzo,*.part,.obj,CMakeTmp,*.m4,.histfile.*,*.moc,*.vm*,node_packages,*.pyc,nbproject,confstat,config.status,qrc_*.cpp,.pch,.xsession-errors*,*.rcore,*.jsc,*.o,.uic,*.swap
+exclude filters version=3
+first run=false
